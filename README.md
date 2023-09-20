@@ -1,0 +1,2 @@
+# juri
+fetch system information
